@@ -5,3 +5,4 @@ Create an account in the application
 
 Create an account
 
+Open the app account
